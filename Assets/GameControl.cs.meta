@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ef578217423c7e47bb7ed4e1926d19f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ak47Object: {instanceID: 0}
+  - DesertEagleObject: {instanceID: 0}
+  - deagleBulletOut: {instanceID: 0}
+  - ak47BulletOut: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - MagazineText: {instanceID: 0}
+  - ReloadingText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
